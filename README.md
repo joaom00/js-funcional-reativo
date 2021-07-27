@@ -25,9 +25,9 @@
 
 ##### Função Filter
 
-- [ ] Parte 01 [**]()
-- [ ] Parte 02 [**]()
-- [ ] Parte 03 [**]()
+- [x] Parte 01
+- [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_4.js)
+- [x] Parte 03 - **Criando minha própria função filter()** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_4.js)
 
 ##### Função Reduce
 
