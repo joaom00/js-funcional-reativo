@@ -56,6 +56,7 @@
 - [ ] Parte 02 [**]()
 - [ ] Parte 03 [**]()
 
+
 ## Projeto #01 - Palavras Mais Usadas
 
 ## Princípios da Programação Funcional
