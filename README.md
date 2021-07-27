@@ -18,10 +18,10 @@
 
 ##### Função Map
 
-- [ ] Parte 01 [**]()
-- [ ] Parte 02 [**]()
-- [ ] Parte 03 [**]()
-- [ ] Parte 04 [**]()
+- [x] Parte 01 
+- [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_3.js)
+- [x] Parte 03 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_3.js)
+- [x] Parte 04 - **Criando minha própria função map()** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_3.js)
 
 ##### Função Filter
 
