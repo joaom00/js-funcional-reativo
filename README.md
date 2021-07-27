@@ -8,7 +8,7 @@
 
 - [x] Parte 01 - **Function Declaration e Function Expression** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_1.js)
 - [x] Parte 02 - **Função como parâmetro e Função como retorno de outra função** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_2.js)
-- [x] Desafio #01 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/desafio_1.js)
+- [x] Desafio #01 [*Código do Desafio*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/desafio_1.js)
 - [x] Parte 03 - Arrow Function [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_3.js)
 
 ##### Função Callback
@@ -21,20 +21,20 @@
 - [x] Parte 01 
 - [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_3.js)
 - [x] Parte 03 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_3.js)
-- [x] Parte 04 - **Criando minha própria função map()** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_3.js)
+- [x] Parte 04 - **Criando minha própria função map** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_3.js#L24)
 
 ##### Função Filter
 
 - [x] Parte 01
 - [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_4.js)
-- [x] Parte 03 - **Criando minha própria função filter()** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_4.js)
+- [x] Parte 03 - **Criando minha própria função filter** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_4.js#L15)
 
 ##### Função Reduce
 
-- [ ] Parte 01 [**]()
-- [ ] Parte 02 [**]()
-- [ ] Desafio Map, Reduce, Filter [**]()
-- [ ] Parte 03 [**]()
+- [x] Parte 01
+- [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_5.js)
+- [x] Desafio Map, Reduce, Filter [*Código do Desafio*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/desafio_2.js)
+- [x] Parte 03 - **Criando minha própria função reduce** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_5.js#L15)
 
 ##### Promise 
 
