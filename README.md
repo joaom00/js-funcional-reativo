@@ -9,7 +9,7 @@
 - [x] Parte 01 - **Function Declaration e Function Expression** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_1.js)
 - [x] Parte 02 - **Função como parâmetro e Função como retorno de outra função** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_2.js)
 - [x] Desafio #01 [*Código do Desafio*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/desafio_1.js)
-- [x] Parte 03 - Arrow Function [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_3.js)
+- [x] Parte 03 - **Arrow Function** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_3.js)
 
 ##### Função Callback
 
