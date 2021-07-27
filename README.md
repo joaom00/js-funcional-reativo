@@ -6,55 +6,55 @@
 
 ##### Básico sobre Função
 
-- [ ] Parte 01 [*Acesse o Código*]()
-- [ ] Parte 02 [*Acesse o Código*]()
-- [ ] Desafio #01 [*Acesse o Código*]()
-- [ ] Parte 03 [*Acesse o Código*]()
+- [x] Parte 01 - **Function Declaration e Function Expression** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_1.js)
+- [x] Parte 02 - **Função como parâmetro e Função como retorno de outra função** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_2.js)
+- [x] Desafio #01 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/desafio_1.js)
+- [x] Parte 03 - Arrow Function [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_3.js)
 
 ##### Função Callback
 
-- [ ] Parte 01 [*Acesse o Código*]()
-- [x] Parte 02 [*Acesse o Código*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_2.js)
+- [x] Parte 01 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_1.js)
+- [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_2.js)
 
 ##### Função Map
 
-- [ ] Parte 01 [*Acesse o Código*]()
-- [ ] Parte 02 [*Acesse o Código*]()
-- [ ] Parte 03 [*Acesse o Código*]()
-- [ ] Parte 04 [*Acesse o Código*]()
+- [ ] Parte 01 [**]()
+- [ ] Parte 02 [**]()
+- [ ] Parte 03 [**]()
+- [ ] Parte 04 [**]()
 
 ##### Função Filter
 
-- [ ] Parte 01 [*Acesse o Código*]()
-- [ ] Parte 02 [*Acesse o Código*]()
-- [ ] Parte 03 [*Acesse o Código*]()
+- [ ] Parte 01 [**]()
+- [ ] Parte 02 [**]()
+- [ ] Parte 03 [**]()
 
 ##### Função Reduce
 
-- [ ] Parte 01 [*Acesse o Código*]()
-- [ ] Parte 02 [*Acesse o Código*]()
-- [ ] Desafio Map, Reduce, Filter [*Acesse o Código*]()
-- [ ] Parte 03 [*Acesse o Código*]()
+- [ ] Parte 01 [**]()
+- [ ] Parte 02 [**]()
+- [ ] Desafio Map, Reduce, Filter [**]()
+- [ ] Parte 03 [**]()
 
 ##### Promise 
 
-- [ ] Parte 01 [*Acesse o Código*]()
-- [ ] Parte 02 [*Acesse o Código*]()
-- [ ] Parte 03 [*Acesse o Código*]()
-- [ ] Desafio Promise [*Acesse o Código*]()
-- [ ] Parte 04 [*Acesse o Código*]()
-- [ ] Parte 05 [*Acesse o Código*]()
+- [ ] Parte 01 [**]()
+- [ ] Parte 02 [**]()
+- [ ] Parte 03 [**]()
+- [ ] Desafio Promise [**]()
+- [ ] Parte 04 [**]()
+- [ ] Parte 05 [**]()
 
 ##### Async/Await
 
-- [ ] Parte 01 [*Acesse o Código*]()
-- [ ] Parte 02 [*Acesse o Código*]()
+- [ ] Parte 01 [**]()
+- [ ] Parte 02 [**]()
 
 ##### OO
 
-- [ ] Parte 01 [*Acesse o Código*]()
-- [ ] Parte 02 [*Acesse o Código*]()
-- [ ] Parte 03 [*Acesse o Código*]()
+- [ ] Parte 01 [**]()
+- [ ] Parte 02 [**]()
+- [ ] Parte 03 [**]()
 
 ## Projeto #01 - Palavras Mais Usadas
 
