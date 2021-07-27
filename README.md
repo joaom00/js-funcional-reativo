@@ -1,5 +1,7 @@
 <h1 align="center">JavaScript Funcional e Reativo</h1>
 
+<p align="center">Repositório para o curso JavaScript Funcional e Reativo - PENSE como um Dev JS da Cod3r</p>
+
 ## Funções
 
 ##### Básico sobre Função
@@ -12,7 +14,7 @@
 ##### Função Callback
 
 - [ ] Parte 01 [*Acesse o Código*]()
-- [ ] Parte 02 [*Acesse o Código*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_2.js)
+- [x] Parte 02 [*Acesse o Código*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_2.js)
 
 ##### Função Map
 
