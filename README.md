@@ -7,6 +7,7 @@
 </h2>
 
 ## Estrutura do Curso
+
 * [Funções](#funções)
     * [Básico sobre Função](#básico-sobre-função)
     * [Função Callback](#função-callback)
@@ -58,21 +59,21 @@
 
 ##### Promise 
 
-- [ ] Parte 01 [**]()
-- [ ] Parte 02 [**]()
-- [ ] Parte 03 [**]()
-- [ ] Desafio Promise [**]()
-- [ ] Parte 04 [**]()
-- [ ] Parte 05 [**]()
+- [x] Parte 01 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_1.js)
+- [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_2.js)
+- [x] Parte 03 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_3.js)
+- [x] Desafio Promise [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/desafio_3.js)
+- [x] Parte 04 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_4.js)
+- [x] Parte 05 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_5.js)
 
 ##### Async/Await
 
-- [ ] Parte 01 [**]()
-- [ ] Parte 02 [**]()
+- [x] Parte 01 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/async_await_1.js)
+- [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/async_await_2.js)
 
 ##### OO
 
-- [ ] Parte 01 [**]()
+- [x] Parte 01 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/oo_1.js)
 - [ ] Parte 02 [**]()
 - [ ] Parte 03 [**]()
 
