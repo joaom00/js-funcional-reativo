@@ -1,0 +1,15 @@
+{
+  "name": "js-funcional-reativo",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">     <img src=\"https://raw.githubusercontent.com/joaom00/js-funcional-reativo/master/.github/js.svg\" /> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.3.0"
+  }
+}
