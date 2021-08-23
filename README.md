@@ -8,81 +8,166 @@
 
 ## Estrutura do Curso
 
-* [Funções](#funções)
-    * [Básico sobre Função](#básico-sobre-função)
-    * [Função Callback](#função-callback)
-    * [Função Map](#função-map)
-    * [Função Filter](#função-filter)
-    * [Função Reduce](#função-reduce)
-    * [Promise](#promise)
-    * [Async/Await](#asyncawait)
-    * [OO](#oo)
-* [Projeto #01 - Palavras Mais Usadas](#projeto-01---palavras-mais-usadas)
-* [Princípios da Programação Funcional](#princípios-da-programação-funcional)
-* [Programação Reativa com RxJS](#programação-reativa-com-rxjs)
-* [Projeto #02 - Migrando Código para RxJS](#projeto-02---migrando-código-para-rxjs)
-* [Lambda Calculus](#lambda-calculus)
+- [Funções](#funções)
+  - [Básico sobre Função](#básico-sobre-função)
+  - [Função Callback](#função-callback)
+  - [Função Map](#função-map)
+  - [Função Filter](#função-filter)
+  - [Função Reduce](#função-reduce)
+  - [Promise](#promise)
+  - [Async/Await](#asyncawait)
+  - [OO](#oo)
+- [Projeto #01 - Palavras Mais Usadas](#projeto-01---palavras-mais-usadas)
+- [Princípios da Programação Funcional](#princípios-da-programação-funcional)
+  - [Função Pura](#função-pura)
+  - [Higher-Order Function](#higher-order-function)
+  - [First-Class Function](#first-class-function)
+  - [Imutabilidade](#imutabilidade)
+  - [Closure](#closure)
+  - [Currying](#currying)
+  - [Lazy Evaluation](#lazy-evaluation)
+  - [Composição de Funções](#composição-de-funções)
+  - [Composição de Funções](#composição-de-funções)
+  - [Functors](#functors)
+  - [FlatMap](#flatmap)
+- [Programação Reativa com RxJS](#programação-reativa-com-rxjs)
+  - [Padrão Observer](#padrão-observer)
+  - [Stream de Dados](#stream-de-dados)
+  - [Observable](#observable)
+  - [Scheduler](#scheduler)
+  - [Operadores](#operadores)
+- [Projeto #02 - Migrando Código para RxJS](#projeto-02---migrando-código-para-rxjs)
+- [Lambda Calculus](#lambda-calculus)
 
 ## Funções
 
 ##### Básico sobre Função
 
-- [x] Parte 01 - **Function Declaration e Function Expression** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_1.js)
-- [x] Parte 02 - **Função como parâmetro e Função como retorno de outra função** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_2.js)
-- [x] Desafio #01 [*Código do Desafio*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/desafio_1.js)
-- [x] Parte 03 - **Arrow Function** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_3.js)
+- [x] Parte 01 - **Function Declaration e Function Expression** [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_1.js)
+- [x] Parte 02 - **Função como parâmetro e Função como retorno de outra função** [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_2.js)
+- [x] Desafio #01 [_Código do Desafio_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/desafio_1.js)
+- [x] Parte 03 - **Arrow Function** [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/basico_3.js)
 
 ##### Função Callback
 
-- [x] Parte 01 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_1.js)
-- [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_2.js)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_1.js)
+- [x] Parte 02 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_2.js)
 
 ##### Função Map
 
-- [x] Parte 01 
-- [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_3.js)
-- [x] Parte 03 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_3.js)
-- [x] Parte 04 - **Criando minha própria função map** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_3.js#L24)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_3.js)
+- [x] Parte 02 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_3.js)
+- [x] Parte 03 - **Criando minha própria função map** [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_3.js#L24)
 
 ##### Função Filter
 
-- [x] Parte 01
-- [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_4.js)
-- [x] Parte 03 - **Criando minha própria função filter** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_4.js#L15)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_4.js)
+- [x] Parte 02 - **Criando minha própria função filter** [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_4.js#L15)
 
 ##### Função Reduce
 
-- [x] Parte 01
-- [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_5.js)
-- [x] Desafio Map, Reduce, Filter [*Código do Desafio*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/desafio_2.js)
-- [x] Parte 03 - **Criando minha própria função reduce** [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_5.js#L15)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_5.js)
+- [x] Desafio Map, Reduce, Filter [_Código do Desafio_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/desafio_2.js)
+- [x] Parte 02 - **Criando minha própria função reduce** [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/callback_5.js#L15)
 
-##### Promise 
+##### Promise
 
-- [x] Parte 01 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_1.js)
-- [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_2.js)
-- [x] Parte 03 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_3.js)
-- [x] Desafio Promise [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/desafio_3.js)
-- [x] Parte 04 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_4.js)
-- [x] Parte 05 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_5.js)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_1.js)
+- [x] Parte 02 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_2.js)
+- [x] Parte 03 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_3.js)
+- [x] Desafio Promise [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/desafio_3.js)
+- [x] Parte 04 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_4.js)
+- [x] Parte 05 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/promise_5.js)
 
 ##### Async/Await
 
-- [x] Parte 01 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/async_await_1.js)
-- [x] Parte 02 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/async_await_2.js)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/async_await_1.js)
+- [x] Parte 02 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/async_await_2.js)
 
 ##### OO
 
-- [x] Parte 01 [*Código da Aula*](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/oo_1.js)
-- [ ] Parte 02 [**]()
-- [ ] Parte 03 [**]()
-
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/oo_1.js)
+- [x] Parte 02 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/oo_2.js)
+- [x] Parte 03 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcoes/oo_3.js)
 
 ## Projeto #01 - Palavras Mais Usadas
 
+- [x] Palavras mais Usadas [_Código do Projeto_](https://github.com/joaom00/js-funcional-reativo/blob/main/projeto_1/index.js)
+
 ## Princípios da Programação Funcional
 
+##### Função Pura
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/funcao_pura_1.js)
+- [x] Parte 02 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/funcao_pura_2.js)
+- [x] Parte 03 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/funcao_pura_3.js)
+
+##### Higher-Order Function
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/higher_order_function.js)
+
+##### First-Class Function
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/first_class_function.js)
+
+##### Imutabilidade
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/imutabilidade_1.js)
+- [x] Parte 02 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/imutabilidade_2.js)
+- [x] Parte 03 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/imutabilidade_3.js)
+
+##### Closure
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/closure.js)
+
+##### Currying
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/currying.js)
+
+##### Lazy Evaluation
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/lazy_eval.js)
+
+##### Composição de Funções
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/composicao.js)
+
+##### Functors
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/functors.js)
+
+##### FlatMap
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/funcional/flat_map.js)
+
 ## Programação Reativa com RxJS
+
+##### Padrão Observer
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/observer/festa_surpresa.js)
+
+##### Stream de Dados
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/stream_dados_1.js)
+- [x] Parte 02 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/stream_dados_2.js)
+- [x] Parte 03 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/stream_dados_3.js)
+
+##### Observable
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/observable_1.js)
+- [x] Parte 02 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/observable_2.js)
+- [x] Parte 03 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/observable_3.js)
+
+##### Scheduler
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/scheduler.js)
+
+##### Operadores
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/operadores_1.js)
+- [x] Parte 02 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/operadores_2.js)
+- [x] Parte 03 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/operadores_3.js)
+- [x] Parte 04 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/operadores_4.js)
 
 ## Projeto #02 - Migrando Código para RxJS
 
