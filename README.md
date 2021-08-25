@@ -168,7 +168,19 @@
 - [x] Parte 02 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/operadores_2.js)
 - [x] Parte 03 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/operadores_3.js)
 - [x] Parte 04 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/operadores_4.js)
+- [x] Parte 05 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/operadores_5.js)
+- [x] Parte 06 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/operadores_6.js)
+
+##### Subject
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/subject.js)
+
+##### Subscription
+
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/rxjs/subscription.js)
 
 ## Projeto #02 - Migrando Código para RxJS
+
+- [x] Palavras mais Usadas(Utilizando RxJS) [_Código do Projeto_](https://github.com/joaom00/js-funcional-reativo/blob/main/projeto_1_rxjs/index.js)
 
 ## Lambda Calculus
