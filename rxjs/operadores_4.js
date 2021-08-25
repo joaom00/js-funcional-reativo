@@ -1,4 +1,4 @@
-import { from, Observable } from "rxjs";
+const { of, Observable } = require("rxjs");
 
 function primeiro() {
   return function (source) {

@@ -1,4 +1,4 @@
-import { Observable, Subject } from "rxjs";
+const { Observable, Subject } = require("rxjs");
 
 function getObservable() {
   return new Observable((subscriber) => {

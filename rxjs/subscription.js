@@ -1,4 +1,4 @@
-import { Subscription, timer } from "rxjs";
+const { Subscription, timer } = require("rxjs");
 
 const obs = timer(3000, 500);
 

@@ -1,4 +1,4 @@
-import { of, Observable } from "rxjs";
+const { of, Observable } = require("rxjs");
 
 function terminadoCom(parteFinal) {
   return function (source) {

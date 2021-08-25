@@ -1,7 +1,6 @@
 {
   "name": "js-funcional-reativo",
   "version": "1.0.0",
-  "type": "module",
   "description": "<div align=\"center\">     <img src=\"https://raw.githubusercontent.com/joaom00/js-funcional-reativo/master/.github/js.svg\" /> </div>",
   "main": "index.js",
   "scripts": {
@@ -11,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.17.21",
     "rxjs": "6.5.5",
     "xmlhttprequest": "^1.8.0"
   }

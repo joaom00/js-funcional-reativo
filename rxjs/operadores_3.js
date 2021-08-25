@@ -1,4 +1,4 @@
-import { Observable } from "rxjs";
+const { Observable } = require("rxjs");
 
 function elementosComDelay(tempo, ...elementos) {
   return new Observable((subscriber) => {

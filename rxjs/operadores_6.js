@@ -1,4 +1,4 @@
-import { from, Observable } from "rxjs";
+const { from, Observable } = require("rxjs");
 
 function createPipeableOperator(operatorFn) {
   return function (source) {
