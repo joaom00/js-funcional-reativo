@@ -8,8 +8,6 @@
 
 ## Estrutura do Curso
 
-## Word word
-
 - [Funções](#funções)
   - [Básico sobre Função](#básico-sobre-função)
   - [Função Callback](#função-callback)
@@ -194,10 +192,31 @@
 
 ## Lambda Calculus
 
+##### Primeiras Funções
+
 - [x] Primeiras Funções [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L4-L23)
+
+##### Função Troca (FLIP)
+
 - [x] Função Troca (FLIP) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L25-L32)
+
+##### Funções Verdadeiro e Falso
+
 - [x] Funções Verdadeiro e Falso [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L34-L45)
+
+##### Função Negação Lógica (NOT)
+
 - [x] Função Negação Lógica (NOT) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L47-L50)
+
+##### Função E Lógico (AND)
+
 - [x] Função E Lógico (AND) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L52-L55)
+
+##### Função OU Lógica (OR)
+
 - [x] Função OU Lógico (OR) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L57-L60)
+
+##### Função OU Exclusivo (XOR)
+
 - [x] Função OU Exclusivo (XOR) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L69-L74)
+
