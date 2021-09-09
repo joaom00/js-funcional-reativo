@@ -8,6 +8,8 @@
 
 ## Estrutura do Curso
 
+## Word word
+
 - [Funções](#funções)
   - [Básico sobre Função](#básico-sobre-função)
   - [Função Callback](#função-callback)
@@ -38,6 +40,13 @@
   - [Operadores](#operadores)
 - [Projeto #02 - Migrando Código para RxJS](#projeto-02---migrando-código-para-rxjs)
 - [Lambda Calculus](#lambda-calculus)
+  - [Primeiras Funções](#primeiras-funções)
+  - [Função Troca (FLIP)](#função-troca-flip)
+  - [Funções Verdadeiro e Falso](#funções-verdadeiro-e-falso)
+  - [Função Negação Lógica (NOT)](#função-negação-lógica-not)
+  - [Função E Lógico](#funcão-e-lógico)
+  - [Função OU Lógico](#função-ou-lógico)
+  - [Função OU Exclusivo](#função-our-exclusivo)
 
 ## Funções
 
@@ -184,3 +193,11 @@
 - [x] Palavras mais Usadas(Utilizando RxJS) [_Código do Projeto_](https://github.com/joaom00/js-funcional-reativo/blob/main/projeto_1_rxjs/index.js)
 
 ## Lambda Calculus
+
+- [x] Primeiras Funções [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L4-L23)
+- [x] Função Troca (FLIP) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L25-L32)
+- [x] Funções Verdadeiro e Falso [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L34-L45)
+- [x] Função Negação Lógica (NOT) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L47-L50)
+- [x] Função E Lógico (AND) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L52-L55)
+- [x] Função OU Lógico (OR) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L57-L60)
+- [x] Função OU Exclusivo (XOR) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L69-L74)
