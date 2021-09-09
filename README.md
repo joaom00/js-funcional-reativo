@@ -42,9 +42,9 @@
   - [Função Troca (FLIP)](#função-troca-flip)
   - [Funções Verdadeiro e Falso](#funções-verdadeiro-e-falso)
   - [Função Negação Lógica (NOT)](#função-negação-lógica-not)
-  - [Função E Lógico](#funcão-e-lógico)
-  - [Função OU Lógico](#função-ou-lógico)
-  - [Função OU Exclusivo](#função-our-exclusivo)
+  - [Função E Lógico (AND)](#funcão-e-lógico-and)
+  - [Função OU Lógico (OR)](#função-ou-lógico-or)
+  - [Função OU Exclusivo (XOR)](#função-our-exclusivo-xor)
 
 ## Funções
 
@@ -194,29 +194,29 @@
 
 ##### Primeiras Funções
 
-- [x] Primeiras Funções [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L4-L23)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L4-L23)
 
 ##### Função Troca (FLIP)
 
-- [x] Função Troca (FLIP) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L25-L32)
+- [x] Parte 01 (FLIP) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L25-L32)
 
 ##### Funções Verdadeiro e Falso
 
-- [x] Funções Verdadeiro e Falso [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L34-L45)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L34-L45)
 
 ##### Função Negação Lógica (NOT)
 
-- [x] Função Negação Lógica (NOT) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L47-L50)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L47-L50)
 
 ##### Função E Lógico (AND)
 
-- [x] Função E Lógico (AND) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L52-L55)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L52-L55)
 
 ##### Função OU Lógica (OR)
 
-- [x] Função OU Lógico (OR) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L57-L60)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L57-L60)
 
 ##### Função OU Exclusivo (XOR)
 
-- [x] Função OU Exclusivo (XOR) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L69-L74)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L69-L74)
 
