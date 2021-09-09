@@ -194,29 +194,29 @@
 
 ##### Primeiras Funções
 
-- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L4-L23)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda_calculus/experimentos.js#L8-L23)
 
 ##### Função Troca (FLIP)
 
-- [x] Parte 01 (FLIP) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L25-L32)
+- [x] Parte 01 (FLIP) [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda_calculus/experimentos.js#L25-L32)
 
 ##### Funções Verdadeiro e Falso
 
-- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L34-L45)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda_calculus/experimentos.js#L34-L45)
 
 ##### Função Negação Lógica (NOT)
 
-- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L47-L50)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda_calculus/experimentos.js#L47-L50)
 
 ##### Função E Lógico (AND)
 
-- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L52-L55)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda_calculus/experimentos.js#L52-L55)
 
 ##### Função OU Lógica (OR)
 
-- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L57-L60)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda_calculus/experimentos.js#L57-L60)
 
 ##### Função OU Exclusivo (XOR)
 
-- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda-calculus/experimentos.js#L69-L74)
+- [x] Parte 01 [_Código da Aula_](https://github.com/joaom00/js-funcional-reativo/blob/main/lambda_calculus/experimentos.js#L69-L74)
 
